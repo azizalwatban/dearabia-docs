@@ -17,12 +17,12 @@ sys.path.insert(0, os.path.abspath('./sandbox/notebooks/Tools'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Digital Earth Africa'
-copyright = '2021, DEAfrica Team'
-author = 'DEAfrica Team'
+project = 'Digital Earth Arabia'
+copyright = '2025, DE Arabia Team'
+author = 'DE Arabia Team'
 
 # The full version, including alpha/beta/rc tags
-release = '2021'
+release = '2025'
 
 # -- General configuration ---------------------------------------------------
     
@@ -125,7 +125,7 @@ html_theme_options = {
 }
 
 # Define the canonical URL if you are using a custom domain on Read the Docs
-html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://docs.digitalearthafrica.org/") 
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://digitaleartharabia.ssa.gov.sa/learning.html") 
 
 # Tell Jinja2 templates the build is running on Read the Docs
 if os.environ.get("READTHEDOCS", "") == "True":
