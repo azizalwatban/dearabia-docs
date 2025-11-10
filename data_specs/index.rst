@@ -1,177 +1,18 @@
 .. _data_specs:
 
 ====================================
-Digital Earth Africa Data & Products
+Digital Earth Arabia Data & Products
 ====================================
 
-Digital Earth Africa hosts a repository of Earth observation datasets
-spanning continental Africa.
-
 **Jump to:**  
-`DE Africa Continental Services`_ | `External Datasets`_ 
+`DE Arabia Data Services`_ | `External Datasets`_ 
 
 -------------------------
-DE Africa Continental Services
+DE Arabia Data Services
 -------------------------
 
-*Digital Earth Africa Continental services are continental-scale outputs that are produced by Digital Earth Africa from various combinations of the external datasets using specified modelling and calculation techniques, with validation also undertaken. Continental Services are provided with specified levels of update and latency and may be continuously updated as external datasets become available.*
-
+*Digital Earth Arabia data services are national scale outputs that are produced by Digital Earth Arabia from various combinations of the external datasets using specified modelling and calculation techniques, with validation also undertaken.
 ---------------------------
-
-
-Agriculture
-^^^^^^^^^^^
-
-.. toctree::
-   :caption: Agriculture
-   :hidden:
-   :maxdepth: 1
-
-    Cropland_extent_specs
-
-.. container:: product-list
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/crop_thumbnail.png
-
-       :doc:`Cropland_extent_specs`
-
-       Estimated location of croplands.
-
-       :doc:`More <Cropland_extent_specs>`
-
-Coastal
-^^^^^^^
-
-.. toctree::
-   :caption: Coastal
-   :hidden:
-   :maxdepth: 1
-
-   Coastlines_specs
-
-.. container:: product-list
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/Coastlines_thumbnail.png
-
-       :doc:`Coastlines_specs`
-
-       Annual shorelines and rates of coastal change along the entire African coastline at a 30 m resolution from 2000 to present. 
-
-       :doc:`More <Coastlines_specs>`
-
-
-
-Geomedians
-^^^^^^^^^^
-
-.. toctree::
-   :caption: Satellite images
-   :hidden:
-   :maxdepth: 1
-
-    GeoMAD_specs
-
-.. container:: product-list
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/GeoMAD_thumbnail.png
-
-       :doc:`GeoMAD_specs`
-
-       Cloud-free mosaics from Landsat and Sentinel-2 satellites.
-
-       :doc:`More <GeoMAD_specs>`
-
-
-Surface water
-^^^^^^^^^^^^^
-
-.. toctree::
-   :caption: Surface water
-   :hidden:
-   :maxdepth: 1
-
-   Landsat_WOfS_specs
-   Waterbodies_specs
-
-.. container:: product-list
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/wofs_thumbnail.png
-
-       :doc:`Landsat_WOfS_specs`
-
-       Individual, annual and historic water observations.
-
-       :doc:`More <Landsat_WOfS_specs>`
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/Waterbodies_thumbnail.png
-
-       :doc:`Waterbodies_specs`
-
-       A continental collection of African water bodies locations and surface area change at a 30m resolution from 1987 to present. 
-
-       :doc:`More <Waterbodies_specs>`
-
-
-
-Vegetation
-^^^^^^^^^^
-
-.. toctree::
-   :caption: Vegetation
-   :hidden:
-   :maxdepth: 1
-
-   
-   Fractional_Cover_specs
-   NDVI_Anomaly_specs
-   NDVI_Climatology_specs
-
-.. container:: product-list
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/fc_thumbnail.png
-
-       :doc:`Fractional_Cover_specs`
-
-       Green vegetation, non-green vegetation and bare soil for every Landsat image.
-
-       :doc:`More <Fractional_Cover_specs>`
-
-    .. container:: product-item
-    
-       .. image:: ../_static/data_specs/NDVI_anom_thumbnail.png
-    
-       :doc:`NDVI_Anomaly_specs`
-    
-       Monthly mapping of vegetation condition against the long-term baseline.
-    
-       :doc:`More <NDVI_Anomaly_specs>`
-
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/NDVI_clim_thumbnail.png
-
-       :doc:`NDVI_Climatology_specs`
-
-       Long-term average vegetation condition (NDVI) for every Landsat pixel over the African continent.
-
-       :doc:`More <NDVI_Climatology_specs>`
-
-
-
-----------------
 
 
 -------------------------
@@ -179,44 +20,9 @@ External Datasets
 -------------------------
 
 
-*External Datasets are datasets that are made available to, and within Digital Earth Africa, but are not produced or maintained by Digital Earth Africa.*
+*External Datasets are datasets that are made available to, and within Digital Earth Arabia, but are not produced or maintained by Digital Earth Arabia.*
 
 ----------------
-
-Agriculture
-^^^^^^^^^^^
-.. toctree::
-   :caption: Agriculture
-   :hidden:
-   :maxdepth: 1
-
-    WaPOR_specs
-    ESA_World_Cereal_specs
-
-.. container:: product-list
-
-    .. container:: product-item
-
-        .. image:: ../_static/data_specs/WaPOR_thumbnail.png
-
-        :doc:`WaPOR_specs`
-
-        The Water Productivity through Open access of Remotely sensed derived data (WaPOR) monitors and reports on agricultural water productivity through biophysical measures with a focus on Africa and the Near East, produced by the FAO.
-
-        :doc:`More <WaPOR_specs>`
-
-    .. container:: product-item
-
-        .. image:: ../_static/data_specs/WorldCereal_thumbnail.png
-
-        :doc:`ESA_World_Cereal_specs`
-
-        The WorldCereal provides seasonal cropland and crop-type maps derived from high-resolution satellite observations, enabling consistent monitoring of agricultural land use and production.
-
-        :doc:`More <ESA_World_Cereal_specs>`
-
-
-
 Elevation and topography
 ^^^^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
@@ -309,19 +115,6 @@ Land Cover
            ESRI 10-meter resolution global land use land cover time series.
     
            :doc:`More <IO_LULC_specs>`
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/Africapolis_urban_specs/Africapolis_urban_specs.png
-
-       :doc:`Africapolis_urban_specs`
-
-       OECD Sahel and West Africa Club  created Africapolis to provide a much needed standardised geospatial database on urbanisation dynamics in Africa, with the aim of making urban data in Africa comparable across countries and across time.
-
-       :doc:`More <Africapolis_urban_specs>`
-
-
-
            
 Meteorology           
 ^^^^^^^^^^^
@@ -366,8 +159,6 @@ Satellite images
    :maxdepth: 1
 
     Landsat_C2_SR_specs
-    Landsat_C2_ST_specs
-    Sentinel-1_specs
     Sentinel-2_Level-2A_specs
     Sentinel-3_OLCI_L2_LAND_specs
    
@@ -379,30 +170,9 @@ Satellite images
 
        :doc:`Landsat_C2_SR_specs`
 
-       Daily satellite images from Landsat 5, 7, 8 and 9.
+       Daily satellite images from Landsat 7, 8 and 9.
 
        :doc:`More <Landsat_C2_SR_specs>`
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/ST_thumbnail.png
-
-       :doc:`Landsat_C2_ST_specs`
-
-       Surface Temperature from Landsat 5, 7, 8 and 9.
-
-       :doc:`More <Landsat_C2_ST_specs>`
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/S1_thumbnail.png
-
-       :doc:`Sentinel-1_specs`
-
-       Synthetic Aperture Radar from Sentinel-1.
-
-       :doc:`More <Sentinel-1_specs>`
-
 
     .. container:: product-item
 
@@ -423,78 +193,6 @@ Satellite images
        Sentinel-3 monitors land with 300 m vegetation condition products.
 
        :doc:`More <Sentinel-3_OLCI_L2_LAND_specs>`
-
-
-Satellite Image Mosaic
-^^^^^^^^^^^^^^^^^
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-    ALOS_PALSAR_annual_mosaic_specs
-    Sentinel-1_Monthly_Mosaic_specs
-    Planet_NICFI_specs
-    
-    
-
-.. container:: product-list
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/ALOS_thumbnail.png
-
-       :doc:`ALOS_PALSAR_annual_mosaic_specs`
-
-       Synthetic Aperture Radar annual mosaics from JAXA.
-
-       :doc:`More <ALOS_PALSAR_annual_mosaic_specs>`
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/Sentinel-1_Monthly_Mosaic_thumbnail.png
-
-       :doc:`Sentinel-1_Monthly_Mosaic_specs`
-       
-       Sentinel-1 Monthly Mosaics enables easy time series analysis, either alone or combined with other datasets. 
-
-       :doc:`More <Sentinel-1_Monthly_Mosaic_specs>`
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/PLANET_thumbnail.jpg
-
-       :doc:`Planet_NICFI_specs`
-       
-       Planet NICFI visual mosaics provide optimized, true-color imagery, making them ideal for visual display and interpretation. 
-
-       :doc:`More <Planet_NICFI_specs>`
-
-
-Surface water
-^^^^^^^^^^^^^
-
-.. toctree::
-   :caption: Surface water
-   :hidden:
-   :maxdepth: 1
-
-   CGLM_Lake_Water_Quality_specs
-
-.. container:: product-list
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/CGLM_Lake_Water_Quality_thumbnail.png
-
-       :doc:`CGLM_Lake_Water_Quality_specs`
-
-       Provides a semi-continuous water quality observation record for medium and large-sized lakes across Africa.
-
-       :doc:`More <CGLM_Lake_Water_Quality_specs>`
-
-
-
 
 
 
@@ -578,28 +276,6 @@ Soil
        
               
    
-About the data
-----------------
 
-.. toctree::
-   :caption: About the data
-   :hidden:
-   :maxdepth: 1
-
-   Landsat_tiers
-
-
-.. container:: product-list
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/tiers_thumbnail.png
-
-       :doc:`Landsat_tiers`
-
-       How Landsat Collection 2 data tiers are used in Digital Earth Africa.
-
-       :doc:`More <Landsat_tiers>`
-
-If you have any feedback for the DE Africa data and services, please contact us at 
-helpdesk@digitalearthafrica.org.
+If you have any feedback for the DE Arabia data and services, please contact us at 
+###.
