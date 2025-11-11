@@ -23,41 +23,6 @@ External Datasets
 
 ----------------
 
-Elevation and topography
-^^^^^^^^^^^^^^^^^^^^^^^^
-.. toctree::
-   :caption: Elevation and topography
-   :hidden:
-   :maxdepth: 1
-
-   COP_DEM_specs
-   SRTM_DEM_specs
-
-
-.. container:: product-list
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/COP-DEM_thumbnail.png
-
-       :doc:`COP_DEM_specs`
-
-       Corpenicus Digital Elevation Model with limited worldwide coverage at 30 metres and global coverage at 90 metres spatial resolution.
-
-       :doc:`More <COP_DEM_specs>`
-
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/SRTM_DEM_thumbnail.png
-
-       :doc:`SRTM_DEM_specs`
-
-       NASA version 3.0 Shuttle Radar Topography Mission (SRTM) global 1 arc second (~30 metre) DEM and Digital Earth Africa SRTM DEM Derivatives.
-
-       :doc:`More <SRTM_DEM_specs>`
-
-
 Land Cover
 ^^^^^^^^^^
 
@@ -74,17 +39,7 @@ Land Cover
     Africapolis_urban_specs
    
 .. container:: product-list
-
-    .. container:: product-item
-    
-           .. image:: ../_static/data_specs/CCI_Landcover_thumbnail.png
-    
-           :doc:`CCI_Landcover_specs`
-    
-           ESA Climate Change Initiative Land Cover at 300 m resolution.
-    
-           :doc:`More <CCI_Landcover_specs>`   
-
+  
     .. container:: product-item
     
            .. image:: ../_static/data_specs/ESA_WorldCover_thumbnail.png
@@ -94,18 +49,7 @@ Land Cover
            ESA WorldCover global land cover map at 10 m resolution.
     
            :doc:`More <ESA_WorldCover_specs>`
-           
-        
-    .. container:: product-item
-    
-           .. image:: ../_static/data_specs/IO_LULC_thumbnail.png
-    
-           :doc:`IO_LULC_specs`
-    
-           ESRI 10-meter resolution global land use land cover time series.
-    
-           :doc:`More <IO_LULC_specs>`
-           
+                     
 
 Satellite images
 ^^^^^^^^^^^^^^^^
