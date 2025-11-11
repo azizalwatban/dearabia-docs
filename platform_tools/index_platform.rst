@@ -1,18 +1,18 @@
 .. _platform_tools:
 
 ====================================
-Digital Earth Africa Platforms
+Digital Earth Arabia Platforms
 ====================================
 
-Digital Earth Africa offers a suite of platforms that enable users to access and interact with its datasets
+Digital Earth Arabia offers a suite of platforms that enable users to access and interact with its datasets
 
 
-Digital Earth Africa Map
+Digital Earth Arabia Map
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. toctree::
    :hidden:
-   :caption: Digital Earth Africa Map
+   :caption: Digital Earth Arabia Map
    :maxdepth: 1
 
     deafrica_map
