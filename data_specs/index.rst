@@ -11,7 +11,7 @@ Digital Earth Arabia Data & Products
 DE Arabia Data Services
 -------------------------
 
-*Digital Earth Arabia data services are national scale outputs that are produced by Digital Earth Arabia from various combinations of the external datasets using specified modelling and calculation techniques, with validation also undertaken.
+*Digital Earth Arabia data services are national scale outputs that are produced by Digital Earth Arabia from various combinations of the external datasets using specified modelling and calculation techniques, with validation also undertaken.*
 ---------------------------
 
 
@@ -84,16 +84,6 @@ Land Cover
            ESA Climate Change Initiative Land Cover at 300 m resolution.
     
            :doc:`More <CCI_Landcover_specs>`   
-
-    .. container:: product-item
-    
-           .. image:: ../_static/data_specs/CGLS_thumbnail.png
-    
-           :doc:`CGLS_LULC_specs`
-    
-           Copernicus Global Land Service annual land cover layers at 100 m spatial resolution.
-    
-           :doc:`More <CGLS_LULC_specs>`
 
     .. container:: product-item
     
@@ -239,42 +229,6 @@ Vegetation
        Global Mangrove Watch global baseline map of mangroves for 2010 and change maps for 1996, 2007, 2008, 2009, 2015 - 2020. 
 
        :doc:`More <Global_Mangrove_Watch_specs>`
-
-
-Soil
-^^^^
-
-.. toctree::
-   :caption: Soil
-   :hidden:
-   :maxdepth: 1
-
-   iSDA_Soil_Data
-
-.. container:: product-list
-       
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/iSDA_Soil_Bedrock_Depth_thumbnail.png
-
-       :doc:`iSDA_Soil_Data`
-
-       iSDA soil variables at 30 m resolution.
-
-       :doc:`More <iSDA_Soil_Data>`       
-       
-
-    .. container:: product-item
-
-       .. image:: ../_static/data_specs/GRAFS_thumbnail.png
-
-       :doc:`GRAFS_specs`
-
-       Global Root-zone moisture Analysis & Forecasting System (GRAFS) by the ANU Centre for Water and Landscape Dynamics. 
-
-       :doc:`More <GRAFS_specs>`
-       
-              
-   
+      
 
 If you have any feedback for the DE Arabia data and services, please contact us at.
