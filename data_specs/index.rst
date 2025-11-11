@@ -14,11 +14,6 @@ DE Arabia Data Services
 *Digital Earth Arabia data services are national scale outputs that are produced by Digital Earth Arabia from various combinations of the external datasets using specified modelling and calculation techniques, with validation also undertaken.*
 ---------------------------
 
-
-
-
-
-
 -------------------------
 External Datasets
 -------------------------
