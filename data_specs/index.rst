@@ -39,9 +39,6 @@ Agriculture
        :doc:`More <ESA_WorldCover_specs>`
 
 
-----------------
-
-
 -------------------------
 External Datasets
 -------------------------
