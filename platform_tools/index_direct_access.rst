@@ -1,10 +1,10 @@
 .. _direct_access:
 
 ====================================
-Accessing Digital Earth Africa Data
+Accessing Digital Earth Arabia Data
 ====================================
 
-Digital Earth Africa data is stored on Amazon Web Services in several publicly accessible S3 buckets. This data can be accessed in various ways. Below are some of the methods you can use to access the data
+Digital Earth Arabia data is stored on Amazon Web Services in several publicly accessible S3 buckets. This data can be accessed in various ways. Below are some of the methods you can use to access the data
 
 
 Direct Access to Data
@@ -77,13 +77,13 @@ Web Services
    
    .. container:: product-item
 
-      .. image:: ../_static/data_specs/ST_thumbnail.png
+      .. image:: ../_static/data_specs/web_thumbnail.png
          :target: web_services_gis
          :width: 400
          :align: left
 
       :doc:`web_services_gis`
 
-      Access to DE Africa data from QGIS or ArcGIS using Web Map Service and Web Coverage Service
+      Access to DE Arabia data from QGIS or ArcGIS using Web Map Service and Web Coverage Service
 
       :doc:`More <web_services_gis>`
