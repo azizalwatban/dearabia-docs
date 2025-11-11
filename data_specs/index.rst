@@ -1,7 +1,7 @@
 .. _data_specs:
 
 ====================================
-Digital Earth Arabia Data & Products1
+Digital Earth Arabia Data & Products
 ====================================
 
 **Jump to:**  
