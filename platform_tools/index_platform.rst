@@ -22,15 +22,15 @@ Digital Earth Arabia Map
    .. container:: product-item
 
       .. image:: ../_static/maps/map_ui.png
-         :target: deafrica_map
+         :target: dearabia_map
          :width: 400
          :align: left
 
-      :doc:`deafrica_map`
+      :doc:`dearabia_map`
 
       The Digital Earth Arabia interactive visualisation map provides users with the tools to visualise satellite images and decision ready data over Saudi Arabia.
 
-      :doc:`More <deafrica_map>`
+      :doc:`More <dearabia_map>`
 
 
 
