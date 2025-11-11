@@ -19,8 +19,27 @@ DE Arabia Data Services
 Agriculture
 ^^^^^^^^^^^
 
-----------------
+.. toctree::
+   :caption: Agriculture
+   :hidden:
+   :maxdepth: 1
 
+    Cropland_extent_specs
+
+.. container:: product-list
+
+    .. container:: product-item
+
+       .. image:: ../_static/data_specs/crop_thumbnail.png
+
+       :doc:`Cropland_extent_specs`
+
+       Estimated location of croplands.
+
+       :doc:`More <ESA_WorldCover_specs>`
+
+
+----------------
 
 
 -------------------------
