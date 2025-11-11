@@ -29,7 +29,7 @@ Data
 
    .. container:: product-item
 
-      .. image:: _static/data_specs/Home_datacatogue.png
+      .. image:: _static/data_specs/Home_data.png
          :target: ./data_specs/
          :width: 400
          :align: left
@@ -55,7 +55,7 @@ Platforms
 
    .. container:: product-item
 
-      .. image:: _static/data_specs/Home_platform.png
+      .. image:: _static/data_specs/Home_Map.png
          :target: ./platform_tools/
          :width: 400
          :align: left
@@ -82,7 +82,7 @@ Direct Access
 
    .. container:: product-item
 
-      .. image:: _static/data_specs/Home_direct_access.png
+      .. image:: _static/data_specs/Home_directAccess.png
          :target: ./platform_tools/
          :width: 400
          :align: left
